@@ -1,4 +1,3 @@
-
 #Parse and use json in python 3.x
 import json
 data = json.loads('{"one" : "1", "two" : "2", "three" : "3"}')
